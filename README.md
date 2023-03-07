@@ -1,4 +1,4 @@
-<center><h2>University of San Francisco's Machine Learning Laboratory <br>  MSDS 699 Spring 2021</h2></center>
+<center><h2>Introduction to Machine Learning in scikit-learn</h2></center>
 <center><img src="https://imgs.xkcd.com/comics/machine_learning.png" style="width: 40%"/></center>
 
 > "It's tough to make predictions, especially about the future."   
@@ -35,14 +35,11 @@ By the end of the course, you should be able to:
 1. Complete data science take-home challenges that you might encounter during job interviews.
 
 -----
-Course Schedule and Topics (Tentative)
+Course Topics 
 -----
 
-The course will meet on Fridays from 2:20 to 4:20 in Zoom. The Zoom link is in Canvas. The classes will be recorded.
-
-1. 01/29
-    - Welcome
-    - Machine learning workflow
+1. Welcome
+1. Machine learning workflow
     - Scikit-learn API Overview
         + Estimators
         + Transformers
